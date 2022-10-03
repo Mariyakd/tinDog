@@ -1,2 +1,1 @@
-# tinDog
-made using HTML 5, CSS 3 and Bootstrap 5
+TinDog Starting Files
